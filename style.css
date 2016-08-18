@@ -71,7 +71,7 @@ html, body, h1, h2, h3, ul, li, a, p, article, aside, footer, header, main, nav,
 }
 
 .banner {
-	background-image: url('../../images//fox.png');
+	/*background-image: url('../../images//fox.png');*/
 	color: black;
 	padding: 10px 20px;
 }

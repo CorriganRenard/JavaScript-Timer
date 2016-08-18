@@ -1,0 +1,49 @@
+h4 {
+  margin-top: 25px;
+}
+.row {
+  margin-bottom: 20px;
+}
+.row .row {
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+[class*="col-"] {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+  
+}
+
+hr {
+  marg
+}
+
+hr {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+.hero-unit {
+     background-image: url('../images/web-design (1).jpg');
+     background-repeat: no-repeat;
+     background-size: cover;
+     height:600px;
+     padding: 20px;
+   
+}
+.hero-unit h1, h2, p  {
+    color: black;
+    position: relative;
+}
+ .hero-unit h2{
+     font-size: 20px;
+     padding-bottom: 10px;
+
+ }
+
+ .separate {
+     background-color: rgba(0, 29, 200, 0.75);
+     height: 30px;
+     border-radius: 6px;
+
+ }
