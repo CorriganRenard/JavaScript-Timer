@@ -24,10 +24,10 @@ hr {
   margin-bottom: 40px;
 }
 .hero-unit {
-     background-image: url('../images/web-design (1).jpg');
+     background-image: url('../images/web-design.jpeg');
      background-repeat: no-repeat;
      background-size: cover;
-     height:600px;
+     height:800px;
      padding: 20px;
    
 }
