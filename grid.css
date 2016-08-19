@@ -42,8 +42,46 @@ hr {
  }
 
  .separate {
-     background-color: rgba(0, 29, 200, 0.75);
+     background-color: #337ab7;
      height: 30px;
      border-radius: 6px;
 
  }
+
+ #timer{
+    font-family: sans-serif;
+    color: #fff;
+    display: inline-block;
+    font-weight: 100;
+    text-align: center;
+    font-size: 30px;
+    padding-left: 5px;
+}
+
+#timer > div{
+    padding: 10px;
+    border-radius: 3px;
+    background: #337ab7;
+    display: inline-block;
+
+   
+}
+
+#timer div > span{
+    padding: 15px;
+    border-radius: 3px;
+    background: #204769;
+    display: inline-block;
+
+   
+}
+
+.smalltext{
+    padding-top: 5px;
+    font-size: 16px;
+}
+
+.dropdown-menu {
+width:375px;
+
+}
